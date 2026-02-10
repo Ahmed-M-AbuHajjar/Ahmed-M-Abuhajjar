@@ -16,7 +16,7 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 
 ## Achievements
 
-| ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1234-green) |
+| ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1,136-green) |
 |:--:|
 | **Contributions** |
 
